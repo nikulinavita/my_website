@@ -1,4 +1,4 @@
-![Welcome GIF](assets/welcome.gif)
+![Welcome GIF](images/welcome.gif)
 Привет! Я **Вита**, и это моё персональное портфолио, где я показываю свои работы и проекты.
 
 ---
