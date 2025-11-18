@@ -1,4 +1,4 @@
-![Welcome GIF](https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/5206105ea54dd56a4893d708df44bf973d81bc7c9bd8deb4ea7a3a831863ff60.gif)
+![Welcome GIF](assets/welcome.gif)
 Привет! Я **Вита**, и это моё персональное портфолио, где я показываю свои работы и проекты.
 
 ---
