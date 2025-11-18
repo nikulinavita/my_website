@@ -1,4 +1,3 @@
-![Welcome GIF](images/welcome.gif)
 Привет! Я **Вита**, и это моё персональное портфолио, где я показываю свои работы и проекты.
 
 ---
@@ -24,3 +23,5 @@
 - 📞 Телефон: +375 25 524 6017  
 - 🌐 Социальные сети:  
   [VK](https://vk.com/) | [Instagram](https://instagram.com/) | [Telegram](https://t.me/)
+
+![Welcome GIF](images/welcome.gif)
